@@ -488,7 +488,7 @@ export default observer(() => {
           <Typography.Link
             className={style.github}
             target="_blank"
-            href="https://github.com/joye61/pic-smaller"
+            href="/"
           >
             <GithubOutlined />
           </Typography.Link>
